@@ -1,0 +1,27 @@
+{
+  "name": "examapp-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jana998-alt/ExamApp-BackEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jana998-alt/ExamApp-BackEnd/issues"
+  },
+  "homepage": "https://github.com/Jana998-alt/ExamApp-BackEnd#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
